@@ -1,0 +1,1578 @@
+[
+  {
+    "code": "AD",
+    "name": "Andorra",
+    "numeric": "020",
+    "region": "Europe",
+    "lat": 42.5,
+    "lng": 1.5
+  },
+  {
+    "code": "AE",
+    "name": "United Arab Emirates",
+    "numeric": "784",
+    "region": "Asia",
+    "lat": 24,
+    "lng": 54
+  },
+  {
+    "code": "AF",
+    "name": "Afghanistan",
+    "numeric": "004",
+    "region": "Asia",
+    "lat": 33,
+    "lng": 65
+  },
+  {
+    "code": "AG",
+    "name": "Antigua and Barbuda",
+    "numeric": "028",
+    "region": "North America",
+    "lat": 17.05,
+    "lng": -61.8
+  },
+  {
+    "code": "AL",
+    "name": "Albania",
+    "numeric": "008",
+    "region": "Europe",
+    "lat": 41,
+    "lng": 20
+  },
+  {
+    "code": "AM",
+    "name": "Armenia",
+    "numeric": "051",
+    "region": "Asia",
+    "lat": 40,
+    "lng": 45
+  },
+  {
+    "code": "AO",
+    "name": "Angola",
+    "numeric": "024",
+    "region": "Africa",
+    "lat": -12.5,
+    "lng": 18.5
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "numeric": "032",
+    "region": "South America",
+    "lat": -34,
+    "lng": -64
+  },
+  {
+    "code": "AT",
+    "name": "Austria",
+    "numeric": "040",
+    "region": "Europe",
+    "lat": 47.33333333,
+    "lng": 13.33333333
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "numeric": "036",
+    "region": "Oceania",
+    "lat": -27,
+    "lng": 133
+  },
+  {
+    "code": "AZ",
+    "name": "Azerbaijan",
+    "numeric": "031",
+    "region": "Asia",
+    "lat": 40.5,
+    "lng": 47.5
+  },
+  {
+    "code": "BA",
+    "name": "Bosnia and Herzegovina",
+    "numeric": "070",
+    "region": "Europe",
+    "lat": 44,
+    "lng": 18
+  },
+  {
+    "code": "BB",
+    "name": "Barbados",
+    "numeric": "052",
+    "region": "North America",
+    "lat": 13.16666666,
+    "lng": -59.53333333
+  },
+  {
+    "code": "BD",
+    "name": "Bangladesh",
+    "numeric": "050",
+    "region": "Asia",
+    "lat": 24,
+    "lng": 90
+  },
+  {
+    "code": "BE",
+    "name": "Belgium",
+    "numeric": "056",
+    "region": "Europe",
+    "lat": 50.83333333,
+    "lng": 4
+  },
+  {
+    "code": "BF",
+    "name": "Burkina Faso",
+    "numeric": "854",
+    "region": "Africa",
+    "lat": 13,
+    "lng": -2
+  },
+  {
+    "code": "BG",
+    "name": "Bulgaria",
+    "numeric": "100",
+    "region": "Europe",
+    "lat": 43,
+    "lng": 25
+  },
+  {
+    "code": "BH",
+    "name": "Bahrain",
+    "numeric": "048",
+    "region": "Asia",
+    "lat": 26,
+    "lng": 50.55
+  },
+  {
+    "code": "BI",
+    "name": "Burundi",
+    "numeric": "108",
+    "region": "Africa",
+    "lat": -3.5,
+    "lng": 30
+  },
+  {
+    "code": "BJ",
+    "name": "Benin",
+    "numeric": "204",
+    "region": "Africa",
+    "lat": 9.5,
+    "lng": 2.25
+  },
+  {
+    "code": "BN",
+    "name": "Brunei",
+    "numeric": "096",
+    "region": "Asia",
+    "lat": 4.5,
+    "lng": 114.66666666
+  },
+  {
+    "code": "BO",
+    "name": "Bolivia",
+    "numeric": "068",
+    "region": "South America",
+    "lat": -17,
+    "lng": -65
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "numeric": "076",
+    "region": "South America",
+    "lat": -10,
+    "lng": -55
+  },
+  {
+    "code": "BS",
+    "name": "Bahamas",
+    "numeric": "044",
+    "region": "North America",
+    "lat": 24.25,
+    "lng": -76
+  },
+  {
+    "code": "BT",
+    "name": "Bhutan",
+    "numeric": "064",
+    "region": "Asia",
+    "lat": 27.5,
+    "lng": 90.5
+  },
+  {
+    "code": "BW",
+    "name": "Botswana",
+    "numeric": "072",
+    "region": "Africa",
+    "lat": -22,
+    "lng": 24
+  },
+  {
+    "code": "BY",
+    "name": "Belarus",
+    "numeric": "112",
+    "region": "Europe",
+    "lat": 53,
+    "lng": 28
+  },
+  {
+    "code": "BZ",
+    "name": "Belize",
+    "numeric": "084",
+    "region": "North America",
+    "lat": 17.25,
+    "lng": -88.75
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "numeric": "124",
+    "region": "North America",
+    "lat": 60,
+    "lng": -95
+  },
+  {
+    "code": "CD",
+    "name": "DR Congo",
+    "numeric": "180",
+    "region": "Africa",
+    "lat": 0,
+    "lng": 25
+  },
+  {
+    "code": "CF",
+    "name": "Central African Republic",
+    "numeric": "140",
+    "region": "Africa",
+    "lat": 7,
+    "lng": 21
+  },
+  {
+    "code": "CG",
+    "name": "Republic of the Congo",
+    "numeric": "178",
+    "region": "Africa",
+    "lat": -1,
+    "lng": 15
+  },
+  {
+    "code": "CH",
+    "name": "Switzerland",
+    "numeric": "756",
+    "region": "Europe",
+    "lat": 47,
+    "lng": 8
+  },
+  {
+    "code": "CI",
+    "name": "Côte d'Ivoire",
+    "numeric": "384",
+    "region": "Africa",
+    "lat": 8,
+    "lng": -5
+  },
+  {
+    "code": "CL",
+    "name": "Chile",
+    "numeric": "152",
+    "region": "South America",
+    "lat": -30,
+    "lng": -71
+  },
+  {
+    "code": "CM",
+    "name": "Cameroon",
+    "numeric": "120",
+    "region": "Africa",
+    "lat": 6,
+    "lng": 12
+  },
+  {
+    "code": "CN",
+    "name": "China",
+    "numeric": "156",
+    "region": "Asia",
+    "lat": 35,
+    "lng": 105
+  },
+  {
+    "code": "CO",
+    "name": "Colombia",
+    "numeric": "170",
+    "region": "South America",
+    "lat": 4,
+    "lng": -72
+  },
+  {
+    "code": "CR",
+    "name": "Costa Rica",
+    "numeric": "188",
+    "region": "North America",
+    "lat": 10,
+    "lng": -84
+  },
+  {
+    "code": "CU",
+    "name": "Cuba",
+    "numeric": "192",
+    "region": "North America",
+    "lat": 21.5,
+    "lng": -80
+  },
+  {
+    "code": "CV",
+    "name": "Cabo Verde",
+    "numeric": "132",
+    "region": "Africa",
+    "lat": 16,
+    "lng": -24
+  },
+  {
+    "code": "CY",
+    "name": "Cyprus",
+    "numeric": "196",
+    "region": "Europe",
+    "lat": 35,
+    "lng": 33
+  },
+  {
+    "code": "CZ",
+    "name": "Czechia",
+    "numeric": "203",
+    "region": "Europe",
+    "lat": 49.75,
+    "lng": 15.5
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "numeric": "276",
+    "region": "Europe",
+    "lat": 51,
+    "lng": 9
+  },
+  {
+    "code": "DJ",
+    "name": "Djibouti",
+    "numeric": "262",
+    "region": "Africa",
+    "lat": 11.5,
+    "lng": 43
+  },
+  {
+    "code": "DK",
+    "name": "Denmark",
+    "numeric": "208",
+    "region": "Europe",
+    "lat": 56,
+    "lng": 10
+  },
+  {
+    "code": "DM",
+    "name": "Dominica",
+    "numeric": "212",
+    "region": "North America",
+    "lat": 15.41666666,
+    "lng": -61.33333333
+  },
+  {
+    "code": "DO",
+    "name": "Dominican Republic",
+    "numeric": "214",
+    "region": "North America",
+    "lat": 19,
+    "lng": -70.66666666
+  },
+  {
+    "code": "DZ",
+    "name": "Algeria",
+    "numeric": "012",
+    "region": "Africa",
+    "lat": 28,
+    "lng": 3
+  },
+  {
+    "code": "EC",
+    "name": "Ecuador",
+    "numeric": "218",
+    "region": "South America",
+    "lat": -2,
+    "lng": -77.5
+  },
+  {
+    "code": "EE",
+    "name": "Estonia",
+    "numeric": "233",
+    "region": "Europe",
+    "lat": 59,
+    "lng": 26
+  },
+  {
+    "code": "EG",
+    "name": "Egypt",
+    "numeric": "818",
+    "region": "Africa",
+    "lat": 27,
+    "lng": 30
+  },
+  {
+    "code": "ER",
+    "name": "Eritrea",
+    "numeric": "232",
+    "region": "Africa",
+    "lat": 15,
+    "lng": 39
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "numeric": "724",
+    "region": "Europe",
+    "lat": 40,
+    "lng": -4
+  },
+  {
+    "code": "ET",
+    "name": "Ethiopia",
+    "numeric": "231",
+    "region": "Africa",
+    "lat": 8,
+    "lng": 38
+  },
+  {
+    "code": "FI",
+    "name": "Finland",
+    "numeric": "246",
+    "region": "Europe",
+    "lat": 64,
+    "lng": 26
+  },
+  {
+    "code": "FJ",
+    "name": "Fiji",
+    "numeric": "242",
+    "region": "Oceania",
+    "lat": -18,
+    "lng": 175
+  },
+  {
+    "code": "FM",
+    "name": "Micronesia",
+    "numeric": "583",
+    "region": "Oceania",
+    "lat": 6.91666666,
+    "lng": 158.25
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "numeric": "250",
+    "region": "Europe",
+    "lat": 46,
+    "lng": 2
+  },
+  {
+    "code": "GA",
+    "name": "Gabon",
+    "numeric": "266",
+    "region": "Africa",
+    "lat": -1,
+    "lng": 11.75
+  },
+  {
+    "code": "GB",
+    "name": "United Kingdom",
+    "numeric": "826",
+    "region": "Europe",
+    "lat": 54,
+    "lng": -2
+  },
+  {
+    "code": "GD",
+    "name": "Grenada",
+    "numeric": "308",
+    "region": "North America",
+    "lat": 12.11666666,
+    "lng": -61.66666666
+  },
+  {
+    "code": "GE",
+    "name": "Georgia",
+    "numeric": "268",
+    "region": "Asia",
+    "lat": 42,
+    "lng": 43.5
+  },
+  {
+    "code": "GH",
+    "name": "Ghana",
+    "numeric": "288",
+    "region": "Africa",
+    "lat": 8,
+    "lng": -2
+  },
+  {
+    "code": "GM",
+    "name": "Gambia",
+    "numeric": "270",
+    "region": "Africa",
+    "lat": 13.46666666,
+    "lng": -16.56666666
+  },
+  {
+    "code": "GN",
+    "name": "Guinea",
+    "numeric": "324",
+    "region": "Africa",
+    "lat": 11,
+    "lng": -10
+  },
+  {
+    "code": "GQ",
+    "name": "Equatorial Guinea",
+    "numeric": "226",
+    "region": "Africa",
+    "lat": 2,
+    "lng": 10
+  },
+  {
+    "code": "GR",
+    "name": "Greece",
+    "numeric": "300",
+    "region": "Europe",
+    "lat": 39,
+    "lng": 22
+  },
+  {
+    "code": "GT",
+    "name": "Guatemala",
+    "numeric": "320",
+    "region": "North America",
+    "lat": 15.5,
+    "lng": -90.25
+  },
+  {
+    "code": "GW",
+    "name": "Guinea-Bissau",
+    "numeric": "624",
+    "region": "Africa",
+    "lat": 12,
+    "lng": -15
+  },
+  {
+    "code": "GY",
+    "name": "Guyana",
+    "numeric": "328",
+    "region": "South America",
+    "lat": 5,
+    "lng": -59
+  },
+  {
+    "code": "HN",
+    "name": "Honduras",
+    "numeric": "340",
+    "region": "North America",
+    "lat": 15,
+    "lng": -86.5
+  },
+  {
+    "code": "HR",
+    "name": "Croatia",
+    "numeric": "191",
+    "region": "Europe",
+    "lat": 45.16666666,
+    "lng": 15.5
+  },
+  {
+    "code": "HT",
+    "name": "Haiti",
+    "numeric": "332",
+    "region": "North America",
+    "lat": 19,
+    "lng": -72.41666666
+  },
+  {
+    "code": "HU",
+    "name": "Hungary",
+    "numeric": "348",
+    "region": "Europe",
+    "lat": 47,
+    "lng": 20
+  },
+  {
+    "code": "ID",
+    "name": "Indonesia",
+    "numeric": "360",
+    "region": "Asia",
+    "lat": -5,
+    "lng": 120
+  },
+  {
+    "code": "IE",
+    "name": "Ireland",
+    "numeric": "372",
+    "region": "Europe",
+    "lat": 53,
+    "lng": -8
+  },
+  {
+    "code": "IL",
+    "name": "Israel",
+    "numeric": "376",
+    "region": "Asia",
+    "lat": 31.47,
+    "lng": 35.13
+  },
+  {
+    "code": "IN",
+    "name": "India",
+    "numeric": "356",
+    "region": "Asia",
+    "lat": 20,
+    "lng": 77
+  },
+  {
+    "code": "IQ",
+    "name": "Iraq",
+    "numeric": "368",
+    "region": "Asia",
+    "lat": 33,
+    "lng": 44
+  },
+  {
+    "code": "IR",
+    "name": "Iran",
+    "numeric": "364",
+    "region": "Asia",
+    "lat": 32,
+    "lng": 53
+  },
+  {
+    "code": "IS",
+    "name": "Iceland",
+    "numeric": "352",
+    "region": "Europe",
+    "lat": 65,
+    "lng": -18
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "numeric": "380",
+    "region": "Europe",
+    "lat": 42.83333333,
+    "lng": 12.83333333
+  },
+  {
+    "code": "JM",
+    "name": "Jamaica",
+    "numeric": "388",
+    "region": "North America",
+    "lat": 18.25,
+    "lng": -77.5
+  },
+  {
+    "code": "JO",
+    "name": "Jordan",
+    "numeric": "400",
+    "region": "Asia",
+    "lat": 31,
+    "lng": 36
+  },
+  {
+    "code": "JP",
+    "name": "Japan",
+    "numeric": "392",
+    "region": "Asia",
+    "lat": 36,
+    "lng": 138
+  },
+  {
+    "code": "KE",
+    "name": "Kenya",
+    "numeric": "404",
+    "region": "Africa",
+    "lat": 1,
+    "lng": 38
+  },
+  {
+    "code": "KG",
+    "name": "Kyrgyzstan",
+    "numeric": "417",
+    "region": "Asia",
+    "lat": 41,
+    "lng": 75
+  },
+  {
+    "code": "KH",
+    "name": "Cambodia",
+    "numeric": "116",
+    "region": "Asia",
+    "lat": 13,
+    "lng": 105
+  },
+  {
+    "code": "KI",
+    "name": "Kiribati",
+    "numeric": "296",
+    "region": "Oceania",
+    "lat": 1.41666666,
+    "lng": 173
+  },
+  {
+    "code": "KM",
+    "name": "Comoros",
+    "numeric": "174",
+    "region": "Africa",
+    "lat": -12.16666666,
+    "lng": 44.25
+  },
+  {
+    "code": "KN",
+    "name": "Saint Kitts and Nevis",
+    "numeric": "659",
+    "region": "North America",
+    "lat": 17.33333333,
+    "lng": -62.75
+  },
+  {
+    "code": "KP",
+    "name": "North Korea",
+    "numeric": "408",
+    "region": "Asia",
+    "lat": 40,
+    "lng": 127
+  },
+  {
+    "code": "KR",
+    "name": "South Korea",
+    "numeric": "410",
+    "region": "Asia",
+    "lat": 37,
+    "lng": 127.5
+  },
+  {
+    "code": "KW",
+    "name": "Kuwait",
+    "numeric": "414",
+    "region": "Asia",
+    "lat": 29.5,
+    "lng": 45.75
+  },
+  {
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "numeric": "398",
+    "region": "Asia",
+    "lat": 48,
+    "lng": 68
+  },
+  {
+    "code": "LA",
+    "name": "Laos",
+    "numeric": "418",
+    "region": "Asia",
+    "lat": 18,
+    "lng": 105
+  },
+  {
+    "code": "LB",
+    "name": "Lebanon",
+    "numeric": "422",
+    "region": "Asia",
+    "lat": 33.83333333,
+    "lng": 35.83333333
+  },
+  {
+    "code": "LC",
+    "name": "Saint Lucia",
+    "numeric": "662",
+    "region": "North America",
+    "lat": 13.88333333,
+    "lng": -60.96666666
+  },
+  {
+    "code": "LI",
+    "name": "Liechtenstein",
+    "numeric": "438",
+    "region": "Europe",
+    "lat": 47.26666666,
+    "lng": 9.53333333
+  },
+  {
+    "code": "LK",
+    "name": "Sri Lanka",
+    "numeric": "144",
+    "region": "Asia",
+    "lat": 7,
+    "lng": 81
+  },
+  {
+    "code": "LR",
+    "name": "Liberia",
+    "numeric": "430",
+    "region": "Africa",
+    "lat": 6.5,
+    "lng": -9.5
+  },
+  {
+    "code": "LS",
+    "name": "Lesotho",
+    "numeric": "426",
+    "region": "Africa",
+    "lat": -29.5,
+    "lng": 28.5
+  },
+  {
+    "code": "LT",
+    "name": "Lithuania",
+    "numeric": "440",
+    "region": "Europe",
+    "lat": 56,
+    "lng": 24
+  },
+  {
+    "code": "LU",
+    "name": "Luxembourg",
+    "numeric": "442",
+    "region": "Europe",
+    "lat": 49.75,
+    "lng": 6.16666666
+  },
+  {
+    "code": "LV",
+    "name": "Latvia",
+    "numeric": "428",
+    "region": "Europe",
+    "lat": 57,
+    "lng": 25
+  },
+  {
+    "code": "LY",
+    "name": "Libya",
+    "numeric": "434",
+    "region": "Africa",
+    "lat": 25,
+    "lng": 17
+  },
+  {
+    "code": "MA",
+    "name": "Morocco",
+    "numeric": "504",
+    "region": "Africa",
+    "lat": 32,
+    "lng": -5
+  },
+  {
+    "code": "MC",
+    "name": "Monaco",
+    "numeric": "492",
+    "region": "Europe",
+    "lat": 43.73333333,
+    "lng": 7.4
+  },
+  {
+    "code": "MD",
+    "name": "Moldova",
+    "numeric": "498",
+    "region": "Europe",
+    "lat": 47,
+    "lng": 29
+  },
+  {
+    "code": "ME",
+    "name": "Montenegro",
+    "numeric": "499",
+    "region": "Europe",
+    "lat": 42.5,
+    "lng": 19.3
+  },
+  {
+    "code": "MG",
+    "name": "Madagascar",
+    "numeric": "450",
+    "region": "Africa",
+    "lat": -20,
+    "lng": 47
+  },
+  {
+    "code": "MH",
+    "name": "Marshall Islands",
+    "numeric": "584",
+    "region": "Oceania",
+    "lat": 9,
+    "lng": 168
+  },
+  {
+    "code": "MK",
+    "name": "North Macedonia",
+    "numeric": "807",
+    "region": "Europe",
+    "lat": 41.83333333,
+    "lng": 22
+  },
+  {
+    "code": "ML",
+    "name": "Mali",
+    "numeric": "466",
+    "region": "Africa",
+    "lat": 17,
+    "lng": -4
+  },
+  {
+    "code": "MM",
+    "name": "Myanmar",
+    "numeric": "104",
+    "region": "Asia",
+    "lat": 22,
+    "lng": 98
+  },
+  {
+    "code": "MN",
+    "name": "Mongolia",
+    "numeric": "496",
+    "region": "Asia",
+    "lat": 46,
+    "lng": 105
+  },
+  {
+    "code": "MR",
+    "name": "Mauritania",
+    "numeric": "478",
+    "region": "Africa",
+    "lat": 20,
+    "lng": -12
+  },
+  {
+    "code": "MT",
+    "name": "Malta",
+    "numeric": "470",
+    "region": "Europe",
+    "lat": 35.83333333,
+    "lng": 14.58333333
+  },
+  {
+    "code": "MU",
+    "name": "Mauritius",
+    "numeric": "480",
+    "region": "Africa",
+    "lat": -20.28333333,
+    "lng": 57.55
+  },
+  {
+    "code": "MV",
+    "name": "Maldives",
+    "numeric": "462",
+    "region": "Asia",
+    "lat": 3.25,
+    "lng": 73
+  },
+  {
+    "code": "MW",
+    "name": "Malawi",
+    "numeric": "454",
+    "region": "Africa",
+    "lat": -13.5,
+    "lng": 34
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "numeric": "484",
+    "region": "North America",
+    "lat": 23,
+    "lng": -102
+  },
+  {
+    "code": "MY",
+    "name": "Malaysia",
+    "numeric": "458",
+    "region": "Asia",
+    "lat": 2.5,
+    "lng": 112.5
+  },
+  {
+    "code": "MZ",
+    "name": "Mozambique",
+    "numeric": "508",
+    "region": "Africa",
+    "lat": -18.25,
+    "lng": 35
+  },
+  {
+    "code": "NA",
+    "name": "Namibia",
+    "numeric": "516",
+    "region": "Africa",
+    "lat": -22,
+    "lng": 17
+  },
+  {
+    "code": "NE",
+    "name": "Niger",
+    "numeric": "562",
+    "region": "Africa",
+    "lat": 16,
+    "lng": 8
+  },
+  {
+    "code": "NG",
+    "name": "Nigeria",
+    "numeric": "566",
+    "region": "Africa",
+    "lat": 10,
+    "lng": 8
+  },
+  {
+    "code": "NI",
+    "name": "Nicaragua",
+    "numeric": "558",
+    "region": "North America",
+    "lat": 13,
+    "lng": -85
+  },
+  {
+    "code": "NL",
+    "name": "Netherlands",
+    "numeric": "528",
+    "region": "Europe",
+    "lat": 52.5,
+    "lng": 5.75
+  },
+  {
+    "code": "NO",
+    "name": "Norway",
+    "numeric": "578",
+    "region": "Europe",
+    "lat": 62,
+    "lng": 10
+  },
+  {
+    "code": "NP",
+    "name": "Nepal",
+    "numeric": "524",
+    "region": "Asia",
+    "lat": 28,
+    "lng": 84
+  },
+  {
+    "code": "NR",
+    "name": "Nauru",
+    "numeric": "520",
+    "region": "Oceania",
+    "lat": -0.53333333,
+    "lng": 166.91666666
+  },
+  {
+    "code": "NZ",
+    "name": "New Zealand",
+    "numeric": "554",
+    "region": "Oceania",
+    "lat": -41,
+    "lng": 174
+  },
+  {
+    "code": "OM",
+    "name": "Oman",
+    "numeric": "512",
+    "region": "Asia",
+    "lat": 21,
+    "lng": 57
+  },
+  {
+    "code": "PA",
+    "name": "Panama",
+    "numeric": "591",
+    "region": "North America",
+    "lat": 9,
+    "lng": -80
+  },
+  {
+    "code": "PE",
+    "name": "Peru",
+    "numeric": "604",
+    "region": "South America",
+    "lat": -10,
+    "lng": -76
+  },
+  {
+    "code": "PG",
+    "name": "Papua New Guinea",
+    "numeric": "598",
+    "region": "Oceania",
+    "lat": -6,
+    "lng": 147
+  },
+  {
+    "code": "PH",
+    "name": "Philippines",
+    "numeric": "608",
+    "region": "Asia",
+    "lat": 13,
+    "lng": 122
+  },
+  {
+    "code": "PK",
+    "name": "Pakistan",
+    "numeric": "586",
+    "region": "Asia",
+    "lat": 30,
+    "lng": 70
+  },
+  {
+    "code": "PL",
+    "name": "Poland",
+    "numeric": "616",
+    "region": "Europe",
+    "lat": 52,
+    "lng": 20
+  },
+  {
+    "code": "PS",
+    "name": "Palestine",
+    "numeric": "275",
+    "region": "Asia",
+    "lat": 31.9,
+    "lng": 35.2
+  },
+  {
+    "code": "PT",
+    "name": "Portugal",
+    "numeric": "620",
+    "region": "Europe",
+    "lat": 39.5,
+    "lng": -8
+  },
+  {
+    "code": "PW",
+    "name": "Palau",
+    "numeric": "585",
+    "region": "Oceania",
+    "lat": 7.5,
+    "lng": 134.5
+  },
+  {
+    "code": "PY",
+    "name": "Paraguay",
+    "numeric": "600",
+    "region": "South America",
+    "lat": -23,
+    "lng": -58
+  },
+  {
+    "code": "QA",
+    "name": "Qatar",
+    "numeric": "634",
+    "region": "Asia",
+    "lat": 25.5,
+    "lng": 51.25
+  },
+  {
+    "code": "RO",
+    "name": "Romania",
+    "numeric": "642",
+    "region": "Europe",
+    "lat": 46,
+    "lng": 25
+  },
+  {
+    "code": "RS",
+    "name": "Serbia",
+    "numeric": "688",
+    "region": "Europe",
+    "lat": 44,
+    "lng": 21
+  },
+  {
+    "code": "RU",
+    "name": "Russia",
+    "numeric": "643",
+    "region": "Europe",
+    "lat": 60,
+    "lng": 100
+  },
+  {
+    "code": "RW",
+    "name": "Rwanda",
+    "numeric": "646",
+    "region": "Africa",
+    "lat": -2,
+    "lng": 30
+  },
+  {
+    "code": "SA",
+    "name": "Saudi Arabia",
+    "numeric": "682",
+    "region": "Asia",
+    "lat": 25,
+    "lng": 45
+  },
+  {
+    "code": "SB",
+    "name": "Solomon Islands",
+    "numeric": "090",
+    "region": "Oceania",
+    "lat": -8,
+    "lng": 159
+  },
+  {
+    "code": "SC",
+    "name": "Seychelles",
+    "numeric": "690",
+    "region": "Africa",
+    "lat": -4.58333333,
+    "lng": 55.66666666
+  },
+  {
+    "code": "SD",
+    "name": "Sudan",
+    "numeric": "729",
+    "region": "Africa",
+    "lat": 15,
+    "lng": 30
+  },
+  {
+    "code": "SE",
+    "name": "Sweden",
+    "numeric": "752",
+    "region": "Europe",
+    "lat": 62,
+    "lng": 15
+  },
+  {
+    "code": "SG",
+    "name": "Singapore",
+    "numeric": "702",
+    "region": "Asia",
+    "lat": 1.36666666,
+    "lng": 103.8
+  },
+  {
+    "code": "SI",
+    "name": "Slovenia",
+    "numeric": "705",
+    "region": "Europe",
+    "lat": 46.11666666,
+    "lng": 14.81666666
+  },
+  {
+    "code": "SK",
+    "name": "Slovakia",
+    "numeric": "703",
+    "region": "Europe",
+    "lat": 48.66666666,
+    "lng": 19.5
+  },
+  {
+    "code": "SL",
+    "name": "Sierra Leone",
+    "numeric": "694",
+    "region": "Africa",
+    "lat": 8.5,
+    "lng": -11.5
+  },
+  {
+    "code": "SM",
+    "name": "San Marino",
+    "numeric": "674",
+    "region": "Europe",
+    "lat": 43.76666666,
+    "lng": 12.41666666
+  },
+  {
+    "code": "SN",
+    "name": "Senegal",
+    "numeric": "686",
+    "region": "Africa",
+    "lat": 14,
+    "lng": -14
+  },
+  {
+    "code": "SO",
+    "name": "Somalia",
+    "numeric": "706",
+    "region": "Africa",
+    "lat": 10,
+    "lng": 49
+  },
+  {
+    "code": "SR",
+    "name": "Suriname",
+    "numeric": "740",
+    "region": "South America",
+    "lat": 4,
+    "lng": -56
+  },
+  {
+    "code": "SS",
+    "name": "South Sudan",
+    "numeric": "728",
+    "region": "Africa",
+    "lat": 7,
+    "lng": 30
+  },
+  {
+    "code": "ST",
+    "name": "São Tomé and Príncipe",
+    "numeric": "678",
+    "region": "Africa",
+    "lat": 1,
+    "lng": 7
+  },
+  {
+    "code": "SV",
+    "name": "El Salvador",
+    "numeric": "222",
+    "region": "North America",
+    "lat": 13.83333333,
+    "lng": -88.91666666
+  },
+  {
+    "code": "SY",
+    "name": "Syria",
+    "numeric": "760",
+    "region": "Asia",
+    "lat": 35,
+    "lng": 38
+  },
+  {
+    "code": "SZ",
+    "name": "Eswatini",
+    "numeric": "748",
+    "region": "Africa",
+    "lat": -26.5,
+    "lng": 31.5
+  },
+  {
+    "code": "TD",
+    "name": "Chad",
+    "numeric": "148",
+    "region": "Africa",
+    "lat": 15,
+    "lng": 19
+  },
+  {
+    "code": "TG",
+    "name": "Togo",
+    "numeric": "768",
+    "region": "Africa",
+    "lat": 8,
+    "lng": 1.16666666
+  },
+  {
+    "code": "TH",
+    "name": "Thailand",
+    "numeric": "764",
+    "region": "Asia",
+    "lat": 15,
+    "lng": 100
+  },
+  {
+    "code": "TJ",
+    "name": "Tajikistan",
+    "numeric": "762",
+    "region": "Asia",
+    "lat": 39,
+    "lng": 71
+  },
+  {
+    "code": "TL",
+    "name": "Timor-Leste",
+    "numeric": "626",
+    "region": "Asia",
+    "lat": -8.83333333,
+    "lng": 125.91666666
+  },
+  {
+    "code": "TM",
+    "name": "Turkmenistan",
+    "numeric": "795",
+    "region": "Asia",
+    "lat": 40,
+    "lng": 60
+  },
+  {
+    "code": "TN",
+    "name": "Tunisia",
+    "numeric": "788",
+    "region": "Africa",
+    "lat": 34,
+    "lng": 9
+  },
+  {
+    "code": "TO",
+    "name": "Tonga",
+    "numeric": "776",
+    "region": "Oceania",
+    "lat": -20,
+    "lng": -175
+  },
+  {
+    "code": "TR",
+    "name": "Türkiye",
+    "numeric": "792",
+    "region": "Asia",
+    "lat": 39,
+    "lng": 35
+  },
+  {
+    "code": "TT",
+    "name": "Trinidad and Tobago",
+    "numeric": "780",
+    "region": "North America",
+    "lat": 11,
+    "lng": -61
+  },
+  {
+    "code": "TV",
+    "name": "Tuvalu",
+    "numeric": "798",
+    "region": "Oceania",
+    "lat": -8,
+    "lng": 178
+  },
+  {
+    "code": "TW",
+    "name": "Taiwan",
+    "numeric": "158",
+    "region": "Asia",
+    "lat": 23.5,
+    "lng": 121
+  },
+  {
+    "code": "TZ",
+    "name": "Tanzania",
+    "numeric": "834",
+    "region": "Africa",
+    "lat": -6,
+    "lng": 35
+  },
+  {
+    "code": "UA",
+    "name": "Ukraine",
+    "numeric": "804",
+    "region": "Europe",
+    "lat": 49,
+    "lng": 32
+  },
+  {
+    "code": "UG",
+    "name": "Uganda",
+    "numeric": "800",
+    "region": "Africa",
+    "lat": 1,
+    "lng": 32
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "numeric": "840",
+    "region": "North America",
+    "lat": 38,
+    "lng": -97
+  },
+  {
+    "code": "UY",
+    "name": "Uruguay",
+    "numeric": "858",
+    "region": "South America",
+    "lat": -33,
+    "lng": -56
+  },
+  {
+    "code": "UZ",
+    "name": "Uzbekistan",
+    "numeric": "860",
+    "region": "Asia",
+    "lat": 41,
+    "lng": 64
+  },
+  {
+    "code": "VA",
+    "name": "Vatican City",
+    "numeric": "336",
+    "region": "Europe",
+    "lat": 41.9,
+    "lng": 12.45
+  },
+  {
+    "code": "VC",
+    "name": "Saint Vincent and the Grenadines",
+    "numeric": "670",
+    "region": "North America",
+    "lat": 13.25,
+    "lng": -61.2
+  },
+  {
+    "code": "VE",
+    "name": "Venezuela",
+    "numeric": "862",
+    "region": "South America",
+    "lat": 8,
+    "lng": -66
+  },
+  {
+    "code": "VN",
+    "name": "Vietnam",
+    "numeric": "704",
+    "region": "Asia",
+    "lat": 16.16666666,
+    "lng": 107.83333333
+  },
+  {
+    "code": "VU",
+    "name": "Vanuatu",
+    "numeric": "548",
+    "region": "Oceania",
+    "lat": -16,
+    "lng": 167
+  },
+  {
+    "code": "WS",
+    "name": "Samoa",
+    "numeric": "882",
+    "region": "Oceania",
+    "lat": -13.58333333,
+    "lng": -172.33333333
+  },
+  {
+    "code": "XK",
+    "name": "Kosovo",
+    "numeric": null,
+    "region": "Europe",
+    "lat": 42.666667,
+    "lng": 21.166667
+  },
+  {
+    "code": "YE",
+    "name": "Yemen",
+    "numeric": "887",
+    "region": "Asia",
+    "lat": 15,
+    "lng": 48
+  },
+  {
+    "code": "ZA",
+    "name": "South Africa",
+    "numeric": "710",
+    "region": "Africa",
+    "lat": -29,
+    "lng": 24
+  },
+  {
+    "code": "ZM",
+    "name": "Zambia",
+    "numeric": "894",
+    "region": "Africa",
+    "lat": -15,
+    "lng": 30
+  },
+  {
+    "code": "ZW",
+    "name": "Zimbabwe",
+    "numeric": "716",
+    "region": "Africa",
+    "lat": -20,
+    "lng": 30
+  }
+]
