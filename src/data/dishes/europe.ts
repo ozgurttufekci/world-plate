@@ -298,6 +298,19 @@ export const europe: DishEntry[] = [
     wiki: "Neapolitan pizza",
   },
   {
+    code: "LI",
+    dish: "Käsknöpfle",
+    description:
+      "Small egg dumplings scraped into simmering water, layered with strong grated cheese and topped with crisp browned onions. Traditionally served with apple purée.",
+    whyUnique:
+      "One of Liechtenstein's best-known dishes, usually named as its national dish. It is the local form of the cheese spätzle made from Swabia to Vorarlberg; part of the cheese here is a local sour cheese.",
+    method: "cooking",
+    course: "main",
+    difficulty: "medium",
+    minutes: 60,
+    wiki: "Käsespätzle",
+  },
+  {
     code: "LT",
     dish: "Cepelinai",
     description:
@@ -359,6 +372,20 @@ export const europe: DishEntry[] = [
     difficulty: "easy",
     minutes: 90,
     wiki: "Moldovan cuisine",
+    photo: false,
+  },
+  {
+    code: "ME",
+    dish: "Kačamak",
+    description:
+      "Cornmeal and potatoes boiled together and beaten into a thick mass with cheese and kajmak (clotted cream), eaten with cold milk or yogurt.",
+    whyUnique:
+      "The mountain dish most tied to Montenegro. Cornmeal porridge is eaten across the Balkans; beating it with potato and cheese is how Montenegro, Albania and Bosnia make it, so this is a national variant.",
+    method: "cooking",
+    course: "main",
+    difficulty: "medium",
+    minutes: 60,
+    wiki: "Kačamak",
     photo: false,
   },
   {

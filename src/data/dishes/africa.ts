@@ -69,6 +69,20 @@ export const africa: DishEntry[] = [
     photo: false,
   },
   {
+    code: "BI",
+    dish: "Ibiharage",
+    description:
+      "Beans boiled until soft, then fried with plenty of onion, garlic and chili in red palm oil or vegetable oil.",
+    whyUnique:
+      "Often called Burundi's national dish; beans are the staple of Burundian cooking. Fried beans are eaten in Rwanda and beyond, so this is a national variant. The link goes to Burundian cuisine.",
+    method: "cooking",
+    course: "main",
+    difficulty: "easy",
+    minutes: 120,
+    wiki: "Burundian cuisine",
+    photo: false,
+  },
+  {
     code: "CV",
     dish: "Cachupa",
     description:
@@ -93,6 +107,20 @@ export const africa: DishEntry[] = [
     difficulty: "medium",
     minutes: 120,
     wiki: "Ndolé",
+  },
+  {
+    code: "CF",
+    dish: "Kanda ti nyma",
+    description:
+      "Meatballs of minced beef bound with ground pumpkin seeds, garlic and onion, simmered in a tomato sauce and eaten with cassava or rice.",
+    whyUnique:
+      "A speciality of the Central African Republic, named in Sango, the national language. The ground pumpkin seeds are what set these meatballs apart. The link goes to the country's cuisine article.",
+    method: "cooking",
+    course: "main",
+    difficulty: "medium",
+    minutes: 90,
+    wiki: "Cuisine of the Central African Republic",
+    photo: false,
   },
   {
     code: "TD",
@@ -137,12 +165,27 @@ export const africa: DishEntry[] = [
   },
   {
     code: "CD",
+    dish: "Liboke",
+    localName: "Liboke ya mbisi",
+    description:
+      "A whole river fish packed with onion, tomato, chili and palm oil, sealed in a banana-leaf parcel and steamed over coals in its own juices.",
+    whyUnique:
+      "Liboke is Lingala for 'parcel', and cooking in leaf parcels is a hallmark of Congolese cooking. Picked over moambe chicken, DR Congo's national dish, which the Republic of the Congo also counts as its own and which is listed there. The link goes to Congolese cuisine.",
+    method: "cooking",
+    course: "main",
+    difficulty: "medium",
+    minutes: 60,
+    wiki: "Congolese cuisine",
+    photo: false,
+  },
+  {
+    code: "CG",
     dish: "Moambe chicken",
     localName: "Poulet à la moambe",
     description:
       "Chicken stewed in a thick sauce of palm-nut pulp with chili and garlic, served with rice or cassava.",
     whyUnique:
-      "Regarded as DR Congo's national dish. Angola, Gabon and the Republic of the Congo cook the same dish, so they get a different one or none here.",
+      "Counted as the national dish of the Republic of the Congo, where a version with peanut butter is called muamba nsusu. DR Congo, Gabon and Angola claim the same dish, so they are listed here with different ones.",
     method: "cooking",
     course: "main",
     difficulty: "medium",
@@ -177,6 +220,20 @@ export const africa: DishEntry[] = [
     wiki: "Koshary",
   },
   {
+    code: "GQ",
+    dish: "Pepesup",
+    description:
+      "A thin, fiery fish broth seasoned with chili and West African spices such as calabash nutmeg.",
+    whyUnique:
+      "Described as Equatorial Guinea's signature dish, in a country where much of the population lives from fishing. Pepper soup comes from Nigeria and is eaten around the Gulf of Guinea, so this is a national variant. The link goes to the general pepper soup article.",
+    method: "cooking",
+    course: "main",
+    difficulty: "easy",
+    minutes: 45,
+    wiki: "Peppersoup",
+    photo: false,
+  },
+  {
     code: "ER",
     dish: "Himbasha",
     description:
@@ -188,6 +245,20 @@ export const africa: DishEntry[] = [
     difficulty: "medium",
     minutes: 150,
     wiki: "Himbasha",
+  },
+  {
+    code: "SZ",
+    dish: "Sidvudvu",
+    description:
+      "Pumpkin boiled soft and mashed, then cooked with maize meal into a thick porridge. Eaten with milk and sugar, or next to a stew.",
+    whyUnique:
+      "A traditional Swazi porridge. Pumpkin and maize porridges are also made across the border in South Africa, so this is a national variant, not a unique invention. The link goes to the cuisine of Eswatini.",
+    method: "cooking",
+    course: "main",
+    difficulty: "easy",
+    minutes: 45,
+    wiki: "Cuisine of Eswatini",
+    photo: false,
   },
   {
     code: "ET",
@@ -203,6 +274,34 @@ export const africa: DishEntry[] = [
     wiki: "Wat (food)",
   },
   {
+    code: "GA",
+    dish: "Poulet à l'odika",
+    description:
+      "Chicken, often smoked, simmered in a dark, velvety sauce thickened with odika, a paste of roasted wild mango kernels.",
+    whyUnique:
+      "Odika is sold in dark blocks in markets across Gabon, where it is nicknamed 'native chocolate'. Picked over poulet nyembwe, Gabon's national dish, which is the moambe chicken listed under the Republic of the Congo. The link goes to the article on the wild mango tree.",
+    method: "cooking",
+    course: "main",
+    difficulty: "medium",
+    minutes: 85,
+    wiki: "Irvingia gabonensis",
+    photo: false,
+  },
+  {
+    code: "GM",
+    dish: "Domoda",
+    description:
+      "Meat stewed in a thick sauce of ground peanuts, tomato and onion with seasonal vegetables, served over rice.",
+    whyUnique:
+      "The Gambia's national dish; the name is Mandinka. Mali and Senegal cook the same peanut stew under other names and are listed here with different dishes. The link goes to the general peanut stew article.",
+    method: "cooking",
+    course: "main",
+    difficulty: "easy",
+    minutes: 90,
+    wiki: "Peanut stew",
+    photo: false,
+  },
+  {
     code: "GH",
     dish: "Waakye",
     description:
@@ -216,6 +315,35 @@ export const africa: DishEntry[] = [
     wiki: "Waakye",
   },
   {
+    code: "GN",
+    dish: "Konkoé",
+    localName: "Konkoé touré gbéli",
+    description:
+      "Smoked fish, traditionally catfish, stewed in red palm oil with eggplant, tomato, sorrel leaves and a lot of chili, served with rice.",
+    whyUnique:
+      "From the fish-rich coast of Maritime Guinea, and the dish chosen for Guinea in UN Tourism's African gastronomy series. The link goes to the cuisine of Guinea.",
+    method: "cooking",
+    course: "main",
+    difficulty: "medium",
+    minutes: 60,
+    wiki: "Cuisine of Guinea",
+    photo: false,
+  },
+  {
+    code: "GW",
+    dish: "Cafriela de frango",
+    description:
+      "Chicken marinated in lemon juice, garlic, onion and hot chilies, simmered in the marinade and then grilled until browned.",
+    whyUnique:
+      "A chicken dish of Guinea-Bissau with a Portuguese name. The link goes to Bissau-Guinean cuisine.",
+    method: "cooking",
+    course: "main",
+    difficulty: "easy",
+    minutes: 210,
+    wiki: "Bissau-Guinean cuisine",
+    photo: false,
+  },
+  {
     code: "KE",
     dish: "Githeri",
     description:
@@ -227,6 +355,20 @@ export const africa: DishEntry[] = [
     difficulty: "easy",
     minutes: 180,
     wiki: "Githeri",
+  },
+  {
+    code: "LS",
+    dish: "Motoho",
+    description:
+      "Sorghum meal mixed with warm water and a starter, left to sour overnight, then cooked briefly into a thin, sour porridge that is usually served warm.",
+    whyUnique:
+      "Lesotho's national dish, as much a drink as a food. Soured cereal drinks are made across southern Africa; this one is always sorghum, where the better-known mageu is maize. The link goes to the cuisine of Lesotho.",
+    method: "cooking",
+    course: "drink",
+    difficulty: "easy",
+    minutes: 1500,
+    wiki: "Cuisine of Lesotho",
+    photo: false,
   },
   {
     code: "LR",
@@ -284,17 +426,31 @@ export const africa: DishEntry[] = [
   },
   {
     code: "ML",
-    dish: "Maafe",
-    localName: "Tigadèguèna",
+    dish: "Fakoye",
+    localName: "Fakou",
     description:
-      "Meat simmered in a peanut and tomato sauce, served over rice.",
+      "A dark, slightly thick sauce of dried, pounded jute leaves cooked with lamb or beef, dried fish, fermented locust beans and spices such as cinnamon and cumin, served over rice.",
     whyUnique:
-      "Traced to the Mandinka and Bambara people of Mali, from where peanut stew spread across West Africa. The Gambia's national dish, domoda, is the same stew.",
+      "A dish of the Songhai and Tuareg of northern Mali; Niger makes it too. Picked over tigadèguèna, Mali's national peanut stew, which is the same dish as The Gambia's domoda and is listed there.",
     method: "cooking",
     course: "main",
+    difficulty: "medium",
+    minutes: 150,
+    wiki: "Fakou",
+  },
+  {
+    code: "MR",
+    dish: "Zrig",
+    description:
+      "Soured milk whisked with sugar and thinned with water. In Mauritania it is often made with camel or goat milk.",
+    whyUnique:
+      "The drink offered to guests in Mauritania, and the first thing drunk when the Ramadan fast ends. Senegal and Western Sahara drink it too. Picked over thieboudienne, Mauritania's national dish, which is listed under Senegal.",
+    method: "no-cook",
+    course: "drink",
     difficulty: "easy",
-    minutes: 90,
-    wiki: "Peanut stew",
+    minutes: 300,
+    wiki: "Zrig",
+    photo: false,
   },
   {
     code: "MU",
@@ -376,6 +532,19 @@ export const africa: DishEntry[] = [
     wiki: "Suya",
   },
   {
+    code: "RW",
+    dish: "Isombe",
+    description:
+      "Cassava leaves chopped fine and boiled in meat stock with onion, tomato and garlic, with peanut butter stirred in at the end.",
+    whyUnique:
+      "A popular stew in Rwanda. It is thought to have come from DR Congo, and Burundi eats it too; Mozambique's matapa and Sierra Leone's cassava leaf stew are cousins.",
+    method: "cooking",
+    course: "main",
+    difficulty: "easy",
+    minutes: 90,
+    wiki: "Isombe",
+  },
+  {
     code: "ST",
     dish: "Calulu",
     description:
@@ -416,6 +585,20 @@ export const africa: DishEntry[] = [
     wiki: "Ladob",
   },
   {
+    code: "SL",
+    dish: "Cassava leaf stew",
+    description:
+      "Young cassava leaves pounded or ground and stewed with onion, hot pepper, fish and meat in palm oil, served over rice.",
+    whyUnique:
+      "Cassava leaves have been called Sierra Leone's national dish. Liberia and Guinea cook them the same way; Rwanda's isombe and Mozambique's matapa are cousins from further away. The link goes to Sierra Leonean cuisine.",
+    method: "cooking",
+    course: "main",
+    difficulty: "medium",
+    minutes: 90,
+    wiki: "Sierra Leonean cuisine",
+    photo: false,
+  },
+  {
     code: "SO",
     dish: "Bariis iskukaris",
     description:
@@ -442,6 +625,20 @@ export const africa: DishEntry[] = [
     wiki: "Bobotie",
   },
   {
+    code: "SS",
+    dish: "Kajaik",
+    description:
+      "Dried Nile fish simmered with onion, tomato and chili into a pungent stew, eaten with sorghum porridge or kisra flatbread.",
+    whyUnique:
+      "One of the dishes listed for South Sudan; Sudan makes it too. Picked over kisra, South Sudan's national dish, which is listed under Sudan. The link goes to South Sudanese cuisine.",
+    method: "cooking",
+    course: "main",
+    difficulty: "medium",
+    minutes: 75,
+    wiki: "South Sudanese cuisine",
+    photo: false,
+  },
+  {
     code: "SD",
     dish: "Kisra",
     description:
@@ -466,6 +663,19 @@ export const africa: DishEntry[] = [
     difficulty: "easy",
     minutes: 30,
     wiki: "Chipsi mayai",
+  },
+  {
+    code: "TG",
+    dish: "Akpan",
+    description:
+      "A tangy, yogurt-like dessert of fermented maize, mixed with condensed milk and served over ice.",
+    whyUnique:
+      "A street dessert of Togo and Benin, sometimes described as a vegetable yogurt. Benin is listed here with amiwo.",
+    method: "cooking",
+    course: "dessert",
+    difficulty: "medium",
+    minutes: 2880,
+    wiki: "Akpan (dessert)",
   },
   {
     code: "TN",

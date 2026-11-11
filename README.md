@@ -7,8 +7,9 @@ Each country has exactly one dish, so the only random part is which country come
 ## How the pool is built
 
 - Candidates are the 193 UN member states plus the Vatican, Palestine, Taiwan and Kosovo.
-- A country is in the pool if it has at least one dish that is distinctly its own. A national version of a wider family counts.
-- A dish belongs to one country only, and contested dishes are avoided where a country has an uncontested alternative.
+- A country is in the pool if it has at least one dish of its own that no other country in the pool holds. A national version of a wider family counts, and so does a dish shared with neighbours that are listed with something else.
+- A dish belongs to one country only. When two countries share a signature dish, it goes to the one with fewer alternatives and the other gets a different dish, so that as many countries as possible are in.
+- Contested dishes are avoided where a country has an uncontested alternative.
 - Every candidate that is left out is listed with a reason in `src/data/excluded.ts` and on the `/criteria` page.
 
 The dataset was written from general knowledge and checked against Wikipedia, not against a culinary authority. Each entry has a `whyUnique` line explaining the choice.

@@ -10,9 +10,9 @@ export default function HomePage() {
           Spin the globe. Cook what it lands on.
         </h1>
         <p className="max-w-2xl text-lg leading-relaxed text-muted-foreground text-pretty">
-          Every country here has exactly one dish: the one most its own. Spin, and you
-          get a country and the thing to make from it. Use the filters if you only want
-          to bake, only have an hour, or want dessert.
+          Every country here has exactly one dish, and no dish belongs to two countries.
+          Spin, and you get a country and the thing to make from it. Use the filters if
+          you only want to bake, only have an hour, or want dessert.
         </p>
         <ol className="grid max-w-2xl gap-3 sm:grid-cols-3">
           {[
@@ -28,9 +28,8 @@ export default function HomePage() {
           ))}
         </ol>
         <p className="max-w-2xl text-sm leading-relaxed text-muted-foreground">
-          {countries.length} countries are in the pool. {excludedCountries.length} are left
-          out because their best-known dishes are shared with neighbours or I
-          couldn&apos;t confirm one;{" "}
+          {countries.length} countries are in the pool. The other{" "}
+          {excludedCountries.length} candidates are left out, each with a reason;{" "}
           <Link href="/criteria" className="underline underline-offset-4 hover:text-foreground">
             see the rules and the list
           </Link>

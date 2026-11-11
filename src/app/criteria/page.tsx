@@ -32,15 +32,17 @@ export default function CriteriaPage() {
             candidates.
           </li>
           <li>
-            A country is in the pool if it has <strong>at least one dish that is
-            distinctly its own</strong>. A national version of a wider family counts, as
-            long as it is recognisably that country&apos;s. Those cases say so on the dish
-            page.
+            A country is in the pool if it has <strong>at least one dish of its own that
+            no other country here holds</strong>. That can be a dish found nowhere else, a
+            national version of a wider family, or a dish shared with neighbours who are
+            listed with something else. The dish page says which.
           </li>
           <li>
             <strong>A dish belongs to one country only.</strong> When two countries have
-            the same signature dish, one of them gets a different dish, or is left out if
-            it has no other candidate.
+            the same signature dish, it goes to the one with fewer alternatives and the
+            other gets a different dish. That is why DR Congo has liboke instead of moambe
+            chicken, and Mali has fakoye instead of its peanut stew. A country is left out
+            only if no arrangement gives it a dish.
           </li>
           <li>
             <strong>Contested dishes are avoided</strong> where a country has an
@@ -62,6 +64,11 @@ export default function CriteriaPage() {
             The list was written from general knowledge and checked against Wikipedia, not
             against a culinary authority. Every dish page explains the choice, so you can
             disagree with it.
+          </li>
+          <li>
+            The pool is built to include as many countries as possible. Some countries are
+            in with their version of a dish that neighbours also cook, and a few rest on
+            thin sources. The dish page says so in each case.
           </li>
           <li>
             Being left out says something about this dataset, not about a country&apos;s

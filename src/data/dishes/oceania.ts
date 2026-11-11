@@ -92,4 +92,45 @@ export const oceania: DishEntry[] = [
     wiki: "Lūʻau (food)",
     photo: false,
   },
+  {
+    code: "MH",
+    dish: "Chukuchuk",
+    description:
+      "Golf-ball-sized balls of sticky rice rolled in freshly grated coconut.",
+    whyUnique:
+      "A Marshallese dish served on special occasions, or as a side to grilled fish or meat.",
+    method: "cooking",
+    course: "snack",
+    difficulty: "easy",
+    minutes: 40,
+    wiki: "Chukuchuk",
+  },
+  {
+    code: "PW",
+    dish: "Tama",
+    description:
+      "Small balls of sweet batter made from flour, sugar, egg and milk, deep-fried until crisp outside and dense and soft inside.",
+    whyUnique:
+      "Palau's everyday sweet, eaten with coffee. It dates from the decades of Japanese rule: the name is Japanese for 'ball', and the recipe is close to Okinawa's sata andagi, so this is a national variant. The link goes to the sata andagi article.",
+    method: "cooking",
+    course: "dessert",
+    difficulty: "easy",
+    minutes: 40,
+    wiki: "Sata andagi",
+    photo: false,
+  },
+  {
+    code: "TV",
+    dish: "Fekei",
+    description:
+      "Swamp taro (pulaka) grated to a pulp, wrapped in its own leaves and steamed, then mixed with coconut cream.",
+    whyUnique:
+      "Made on all of Tuvalu's islands. Pulaka, grown in pits dug down to the water table, is the islands' main traditional crop; away from the atolls, ordinary taro is the nearest substitute. The link goes to Tuvaluan cuisine.",
+    method: "cooking",
+    course: "snack",
+    difficulty: "hard",
+    minutes: 120,
+    wiki: "Tuvaluan cuisine",
+    photo: false,
+  },
 ];

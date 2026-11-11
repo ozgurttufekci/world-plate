@@ -89,6 +89,19 @@ export const americas: DishEntry[] = [
     wiki: "Ropa vieja",
   },
   {
+    code: "DM",
+    dish: "Callaloo soup",
+    description:
+      "A thick green soup of leafy greens, usually young dasheen (taro) leaves, simmered in coconut milk, sometimes with crab or salted meat.",
+    whyUnique:
+      "Dominica's national dish since 2013. It replaced 'mountain chicken', a frog that is now protected. Callaloo is cooked across the Caribbean, so this is a national variant.",
+    method: "cooking",
+    course: "main",
+    difficulty: "easy",
+    minutes: 60,
+    wiki: "Callaloo",
+  },
+  {
     code: "DO",
     dish: "Mangú",
     description:
@@ -161,6 +174,19 @@ export const americas: DishEntry[] = [
     difficulty: "easy",
     minutes: 60,
     wiki: "Ackee and saltfish",
+  },
+  {
+    code: "KN",
+    dish: "Goat water",
+    description:
+      "A tomato-based stew of goat with breadfruit, green papaya and small dumplings known as droppers.",
+    whyUnique:
+      "Probably the best-known dish of Saint Kitts and Nevis. Montserrat, a British territory that is not in this list, counts goat water as its national dish too.",
+    method: "cooking",
+    course: "main",
+    difficulty: "medium",
+    minutes: 150,
+    wiki: "Goat water",
   },
   {
     code: "LC",

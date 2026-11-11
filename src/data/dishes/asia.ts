@@ -432,6 +432,20 @@ export const asia: DishEntry[] = [
     wiki: "Musakhan",
   },
   {
+    code: "QA",
+    dish: "Madrouba",
+    description:
+      "Rice cooked far past done with chicken, garlic and spices such as turmeric, cumin, cardamom and ginger, then beaten into a smooth, thick porridge.",
+    whyUnique:
+      "A comfort dish in Qatar; the name means 'beaten'. Other Gulf states make it too. Picked over machboos, Qatar's national dish, which is the local form of the kabsa listed under Saudi Arabia. The link goes to Qatari cuisine.",
+    method: "cooking",
+    course: "main",
+    difficulty: "easy",
+    minutes: 120,
+    wiki: "Qatari cuisine",
+    photo: false,
+  },
+  {
     code: "SA",
     dish: "Kabsa",
     description:
@@ -562,6 +576,19 @@ export const asia: DishEntry[] = [
     difficulty: "easy",
     minutes: 20,
     wiki: "Menemen (food)",
+  },
+  {
+    code: "AE",
+    dish: "Balaleet",
+    description:
+      "Vermicelli sweetened with sugar, cardamom, saffron and rose water, served under a thin omelette.",
+    whyUnique:
+      "A breakfast classic in the Emirates, and often the first meal of the day on Eid al-Fitr. The rest of the eastern Gulf eats it too.",
+    method: "cooking",
+    course: "main",
+    difficulty: "easy",
+    minutes: 25,
+    wiki: "Balaleet",
   },
   {
     code: "UZ",
